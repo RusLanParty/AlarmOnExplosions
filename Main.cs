@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using GTA;
 using GTA.Native;
 
-namespace AlarmOnExplosions
+namespace RealExplosions
 {
     public class Main : Script
     {
@@ -64,7 +64,7 @@ namespace AlarmOnExplosions
                         if(!v.IsEngineRunning && v.Driver == null)
                         {
                             Wait(57);
-                            time = Function.Call<int>(Hash.GET_RANDOM_INT_IN_RANGE, 13000, 30000);
+                            time = Function.Call<int>(Hash.GET_RANDOM_INT_IN_RANGE, 13000, 22000);
                             v.AlarmTimeLeft = time;
                             v.StartAlarm();
                         }
