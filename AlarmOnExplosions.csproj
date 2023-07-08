@@ -7,8 +7,8 @@
     <ProjectGuid>{53D0B322-7E89-4F70-A308-B83C5E15D109}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RealExplosions</RootNamespace>
-    <AssemblyName>RealExplosions</AssemblyName>
+    <RootNamespace>AlarmOnExplosions</RootNamespace>
+    <AssemblyName>AlarmOnExplosions</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
