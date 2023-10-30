@@ -1,9 +1,0 @@
-D:\Visual Studio\Repos\AlarmOnExplosions\bin\Debug\RealExplosions.dll
-D:\Visual Studio\Repos\AlarmOnExplosions\bin\Debug\RealExplosions.pdb
-D:\Visual Studio\Repos\AlarmOnExplosions\bin\Debug\ScriptHookVDotNet3.dll
-D:\Visual Studio\Repos\AlarmOnExplosions\bin\Debug\ScriptHookVDotNet3.xml
-D:\Visual Studio\Repos\AlarmOnExplosions\obj\Debug\RealExplosions.csproj.AssemblyReference.cache
-D:\Visual Studio\Repos\AlarmOnExplosions\obj\Debug\RealExplosions.csproj.CoreCompileInputs.cache
-D:\Visual Studio\Repos\AlarmOnExplosions\obj\Debug\RealExplosions.csproj.CopyComplete
-D:\Visual Studio\Repos\AlarmOnExplosions\obj\Debug\RealExplosions.dll
-D:\Visual Studio\Repos\AlarmOnExplosions\obj\Debug\RealExplosions.pdb
